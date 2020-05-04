@@ -11,7 +11,7 @@ int main()
     cout << " Enter number 4 ";
     cin >> n;
 
-    cout << "Factorial of " << n << " = " << factorialR(n);
+    cout << "FactorialR of " << n << " = " << factorialR(n);
 
     return 0;
 }
